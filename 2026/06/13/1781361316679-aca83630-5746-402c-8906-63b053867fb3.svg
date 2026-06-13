@@ -1,0 +1,38 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">软件堆叠造成系统负担</title>
+  <desc id="desc">多个软件安装后附带服务、插件、弹窗和更新程序，长期堆叠会拖慢系统</desc>
+  <rect width="1200" height="720" fill="#f8fafc"/>
+  <g font-family="Arial, 'Microsoft YaHei', sans-serif">
+    <text x="70" y="84" fill="#111827" font-size="42" font-weight="700">你装的是软件，系统背的是一整套组件</text>
+    <text x="72" y="130" fill="#475569" font-size="24">更新服务、右键菜单、插件、弹窗模块，都会长期占资源</text>
+    <g transform="translate(120 205)">
+      <rect width="300" height="330" rx="24" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="42" y="60" fill="#111827" font-size="30" font-weight="700">表面上</text>
+      <rect x="72" y="110" width="156" height="156" rx="34" fill="#2563eb"/>
+      <text x="150" y="205" text-anchor="middle" fill="#ffffff" font-size="36" font-weight="700">一个软件</text>
+      <text x="42" y="300" fill="#64748b" font-size="22">只看到一个图标</text>
+    </g>
+    <path d="M470 370 H560" stroke="#94a3b8" stroke-width="8" stroke-linecap="round"/>
+    <path d="M560 370 L535 347 M560 370 L535 393" stroke="#94a3b8" stroke-width="8" stroke-linecap="round"/>
+    <g transform="translate(620 180)">
+      <rect width="460" height="390" rx="24" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="40" y="62" fill="#111827" font-size="30" font-weight="700">实际上</text>
+      <g fill="#f1f5f9" stroke="#d1d5db">
+        <rect x="50" y="100" width="160" height="62" rx="16"/>
+        <rect x="250" y="100" width="160" height="62" rx="16"/>
+        <rect x="50" y="190" width="160" height="62" rx="16"/>
+        <rect x="250" y="190" width="160" height="62" rx="16"/>
+        <rect x="50" y="280" width="160" height="62" rx="16"/>
+        <rect x="250" y="280" width="160" height="62" rx="16"/>
+      </g>
+      <g fill="#334155" font-size="23">
+        <text x="82" y="139">更新服务</text>
+        <text x="282" y="139">托盘常驻</text>
+        <text x="82" y="229">浏览器插件</text>
+        <text x="282" y="229">右键菜单</text>
+        <text x="82" y="319">弹窗模块</text>
+        <text x="282" y="319">计划任务</text>
+      </g>
+    </g>
+  </g>
+</svg>
