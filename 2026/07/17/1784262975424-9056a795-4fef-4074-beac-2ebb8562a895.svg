@@ -1,0 +1,76 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 400" width="940" height="400">
+  <defs>
+    <radialGradient id="bgGlow5" cx="0.7" cy="0.5" r="0.6"><stop offset="0" stop-color="#1a3a6b"/><stop offset="0.5" stop-color="#0f1f3d"/><stop offset="1" stop-color="#0a1628"/></radialGradient>
+    <radialGradient id="nodeGlow5"><stop offset="0" stop-color="#60a5fa" stop-opacity="0.4"/><stop offset="1" stop-color="#1a6bff" stop-opacity="0"/></radialGradient>
+    <radialGradient id="centerGlow5"><stop offset="0" stop-color="#1a6bff" stop-opacity="0.6"/><stop offset="0.5" stop-color="#1a6bff" stop-opacity="0.2"/><stop offset="1" stop-color="#1a6bff" stop-opacity="0"/></radialGradient>
+  </defs>
+  
+  <rect width="940" height="400" fill="url(#bgGlow5)"/>
+  
+  <!-- Central glow -->
+  <circle cx="700" cy="200" r="160" fill="url(#centerGlow5)"/>
+  
+  <!-- Network nodes and connections -->
+  <g opacity="0.6">
+    <!-- Connection lines -->
+    <line x1="620" y1="80" x2="800" y2="150" stroke="#1a6bff" stroke-width="1.2"/>
+    <line x1="800" y1="150" x2="780" y2="310" stroke="#1a6bff" stroke-width="1.2"/>
+    <line x1="780" y1="310" x2="620" y2="340" stroke="#1a6bff" stroke-width="1"/>
+    <line x1="620" y1="340" x2="560" y2="200" stroke="#1a6bff" stroke-width="1"/>
+    <line x1="560" y1="200" x2="620" y2="80" stroke="#1a6bff" stroke-width="1.2"/>
+    <!-- Cross connections -->
+    <line x1="620" y1="80" x2="560" y2="200" stroke="#1a6bff" stroke-width="0.8" opacity="0.4"/>
+    <line x1="800" y1="150" x2="620" y2="340" stroke="#1a6bff" stroke-width="0.8" opacity="0.3"/>
+    <line x1="620" y1="80" x2="780" y2="310" stroke="#1a6bff" stroke-width="0.6" opacity="0.2"/>
+    <line x1="560" y1="200" x2="780" y2="310" stroke="#1a6bff" stroke-width="0.6" opacity="0.2"/>
+    
+    <!-- Secondary nodes (smaller) -->
+    <line x1="620" y1="80" x2="510" y2="110" stroke="#60a5fa" stroke-width="0.6" opacity="0.3"/>
+    <line x1="800" y1="150" x2="870" y2="180" stroke="#60a5fa" stroke-width="0.6" opacity="0.3"/>
+    <line x1="780" y1="310" x2="850" y2="350" stroke="#60a5fa" stroke-width="0.6" opacity="0.3"/>
+    
+    <!-- Primary nodes -->
+    <circle cx="620" cy="80" r="6" fill="#1a6bff"/><circle cx="620" cy="80" r="16" fill="url(#nodeGlow5)"/>
+    <circle cx="800" cy="150" r="5" fill="#60a5fa"/><circle cx="800" cy="150" r="14" fill="url(#nodeGlow5)"/>
+    <circle cx="780" cy="310" r="6" fill="#1a6bff"/><circle cx="780" cy="310" r="16" fill="url(#nodeGlow5)"/>
+    <circle cx="620" cy="340" r="5" fill="#60a5fa"/><circle cx="620" cy="340" r="14" fill="url(#nodeGlow5)"/>
+    <circle cx="560" cy="200" r="6" fill="#1a6bff"/><circle cx="560" cy="200" r="16" fill="url(#nodeGlow5)"/>
+    
+    <!-- Secondary nodes -->
+    <circle cx="510" cy="110" r="3" fill="#60a5fa" opacity="0.5"/>
+    <circle cx="870" cy="180" r="3" fill="#60a5fa" opacity="0.5"/>
+    <circle cx="850" cy="350" r="3" fill="#60a5fa" opacity="0.5"/>
+    
+    <!-- Central hub -->
+    <circle cx="680" cy="195" r="50" fill="url(#centerGlow5)"/>
+    <circle cx="680" cy="195" r="8" fill="#1a6bff"/>
+    <circle cx="680" cy="195" r="3" fill="#ffffff" opacity="0.8"/>
+  </g>
+  
+  <!-- Data particles -->
+  <g opacity="0.15">
+    <circle cx="100" cy="80" r="1.5" fill="#60a5fa"/>
+    <circle cx="200" cy="120" r="1" fill="#60a5fa"/>
+    <circle cx="150" cy="180" r="1.5" fill="#60a5fa"/>
+    <circle cx="250" cy="60" r="1" fill="#60a5fa"/>
+    <circle cx="80" cy="250" r="1.5" fill="#60a5fa"/>
+    <circle cx="300" cy="150" r="1" fill="#60a5fa"/>
+    <circle cx="180" cy="320" r="1.5" fill="#60a5fa"/>
+    <circle cx="350" cy="280" r="1" fill="#60a5fa"/>
+    <circle cx="400" cy="100" r="1.5" fill="#60a5fa"/>
+    <circle cx="450" cy="330" r="1" fill="#60a5fa"/>
+  </g>
+  
+  <!-- Badge -->
+  <rect x="30" y="25" width="100" height="26" rx="13" fill="#1a6bff"/>
+  <text x="80" y="42" text-anchor="middle" font-family="'Microsoft YaHei','PingFang SC',sans-serif" font-size="12" font-weight="bold" fill="#fff">深度连载</text>
+  
+  <!-- Title -->
+  <text x="50" y="170" font-family="'Microsoft YaHei','PingFang SC',sans-serif" font-size="40" font-weight="bold" fill="#ffffff">AI智能体技术</text>
+  <text x="50" y="235" font-family="'Microsoft YaHei','PingFang SC',sans-serif" font-size="34" font-weight="bold" fill="#ffffff">在全过程咨询中的应用前景</text>
+  
+  <rect x="50" y="255" width="60" height="3" rx="1.5" fill="#1a6bff"/>
+  
+  <!-- Brand -->
+  <text x="910" y="370" text-anchor="end" font-family="'Microsoft YaHei','PingFang SC',sans-serif" font-size="14" fill="#64748b" opacity="0.7">清源智界 · 獴探</text>
+</svg>
