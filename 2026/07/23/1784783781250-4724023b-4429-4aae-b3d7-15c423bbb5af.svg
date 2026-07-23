@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430" role="img" aria-labelledby="title desc">
+  <title id="title">银狐攻击链路</title>
+  <desc id="desc">银狐从诱饵投递、诱导运行、落地执行到连接控制端的攻击链路。</desc>
+  <rect width="900" height="430" fill="#fbfcff"/>
+  <text x="48" y="65" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#182033">常见攻击链路</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="55" y="155" width="160" height="100" rx="20" fill="#edf5ff"/>
+    <text x="88" y="196" font-size="22" font-weight="700" fill="#2f6bd9">诱饵投递</text>
+    <text x="92" y="228" font-size="17" fill="#334155">IM / 邮件</text>
+    <path d="M230 205 H285" stroke="#607089" stroke-width="5" marker-end="url(#arrow)"/>
+    <rect x="300" y="155" width="160" height="100" rx="20" fill="#fff5df"/>
+    <text x="333" y="196" font-size="22" font-weight="700" fill="#946200">诱导运行</text>
+    <text x="333" y="228" font-size="17" fill="#334155">伪装文件</text>
+    <path d="M475 205 H530" stroke="#607089" stroke-width="5" marker-end="url(#arrow)"/>
+    <rect x="545" y="155" width="160" height="100" rx="20" fill="#f6f7fb"/>
+    <text x="578" y="196" font-size="22" font-weight="700" fill="#334155">落地执行</text>
+    <text x="578" y="228" font-size="17" fill="#334155">组件 / 启动</text>
+    <path d="M720 205 H775" stroke="#607089" stroke-width="5" marker-end="url(#arrow)"/>
+    <rect x="790" y="155" width="90" height="100" rx="20" fill="#e8f7ef"/>
+    <text x="808" y="196" font-size="22" font-weight="700" fill="#24704d">远控</text>
+    <text x="810" y="228" font-size="17" fill="#334155">C2</text>
+  </g>
+  <rect x="140" y="320" width="620" height="50" rx="25" fill="#ffffff" stroke="#d9deea"/>
+  <text x="184" y="352" font-family="Arial, sans-serif" font-size="20" fill="#5f6b80">关键点：攻击者利用办公信任场景，让用户主动执行第一步</text>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L7,3 z" fill="#607089"/>
+    </marker>
+  </defs>
+</svg>
