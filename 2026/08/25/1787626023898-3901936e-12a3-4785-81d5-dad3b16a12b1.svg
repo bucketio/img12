@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" font-family="PingFang SC, Microsoft YaHei, sans-serif">
+  <rect width="900" height="560" fill="#f8fafc"/>
+  <rect x="100" y="40" width="700" height="80" rx="12" fill="#1e293b"/>
+  <text x="450" y="72" text-anchor="middle" fill="#f1f5f9" font-size="18" font-weight="bold">&#x65E5;&#x5E38;&#x5DE5;&#x4F5C;&#xFF1A;6-8 &#x6761;&#x5E76;&#x884C;&#x4E1A;&#x52A1;&#x7EBF;</text>
+  <text x="450" y="100" text-anchor="middle" fill="#94a3b8" font-size="13">&#x91D1;&#x878D;&#x9879;&#x76EE; &#xB7; &#x5236;&#x9020;&#x4E1A;&#x667A;&#x80FD;&#x4F53; &#xB7; &#x6559;&#x80B2;&#x5E73;&#x53F0; &#xB7; &#x7ECF;&#x8425;&#x6570;&#x636E; &#xB7; &#x6280;&#x672F;&#x7814;&#x7A76; &#xB7; &#x65B9;&#x6CD5;&#x8BBA;&#x5199;&#x4F5C;</text>
+  <path d="M450 120 L450 148" stroke="#64748b" stroke-width="2" stroke-dasharray="4,3"/>
+  <polygon points="445,146 450,156 455,146" fill="#64748b"/>
+  <rect x="100" y="160" width="700" height="100" rx="12" fill="#334155"/>
+  <text x="450" y="195" text-anchor="middle" fill="#e2e8f0" font-size="17" font-weight="bold">&#x9879;&#x76EE;&#x884C;&#x4E3A;&#x5951;&#x7EA6;</text>
+  <rect x="180" y="215" width="120" height="30" rx="6" fill="#475569"/>
+  <text x="240" y="235" text-anchor="middle" fill="#cbd5e1" font-size="13">&#x76EE;&#x5F55;&#x8FB9;&#x754C;</text>
+  <rect x="320" y="215" width="120" height="30" rx="6" fill="#475569"/>
+  <text x="380" y="235" text-anchor="middle" fill="#cbd5e1" font-size="13">&#x7F16;&#x7801;&#x7EA6;&#x675F;</text>
+  <rect x="460" y="215" width="140" height="30" rx="6" fill="#475569"/>
+  <text x="530" y="235" text-anchor="middle" fill="#cbd5e1" font-size="13">&#x552F;&#x4E00;&#x6570;&#x636E;&#x771F;&#x6E90;</text>
+  <rect x="620" y="215" width="120" height="30" rx="6" fill="#475569"/>
+  <text x="680" y="235" text-anchor="middle" fill="#cbd5e1" font-size="13">&#x98CE;&#x9669;&#x5206;&#x7EA7;</text>
+  <path d="M450 260 L450 288" stroke="#64748b" stroke-width="2" stroke-dasharray="4,3"/>
+  <polygon points="445,286 450,296 455,286" fill="#64748b"/>
+  <rect x="100" y="300" width="700" height="100" rx="12" fill="#1e40af" opacity="0.85"/>
+  <text x="450" y="335" text-anchor="middle" fill="#e0e7ff" font-size="17" font-weight="bold">&#x5DE5;&#x4F5C;&#x534F;&#x8BAE; &#xD7; 20+</text>
+  <rect x="160" y="352" width="100" height="30" rx="6" fill="#3b82f6" opacity="0.6"/>
+  <text x="210" y="372" text-anchor="middle" fill="#e0e7ff" font-size="13">&#x6392;&#x9519;</text>
+  <rect x="280" y="352" width="120" height="30" rx="6" fill="#3b82f6" opacity="0.6"/>
+  <text x="340" y="372" text-anchor="middle" fill="#e0e7ff" font-size="13">&#x6570;&#x636E;&#x5237;&#x65B0;</text>
+  <rect x="420" y="352" width="140" height="30" rx="6" fill="#3b82f6" opacity="0.6"/>
+  <text x="490" y="372" text-anchor="middle" fill="#e0e7ff" font-size="13">&#x5F71;&#x54CD;&#x9762;&#x8BC4;&#x4F30;</text>
+  <rect x="580" y="352" width="100" height="30" rx="6" fill="#3b82f6" opacity="0.6"/>
+  <text x="630" y="372" text-anchor="middle" fill="#e0e7ff" font-size="13">&#x5BA1;&#x67E5;</text>
+  <rect x="700" y="352" width="60" height="30" rx="6" fill="#3b82f6" opacity="0.4"/>
+  <text x="730" y="372" text-anchor="middle" fill="#93c5fd" font-size="13">...</text>
+  <path d="M450 400 L450 428" stroke="#64748b" stroke-width="2" stroke-dasharray="4,3"/>
+  <polygon points="445,426 450,436 455,426" fill="#64748b"/>
+  <rect x="100" y="440" width="700" height="100" rx="12" fill="#0f766e" opacity="0.85"/>
+  <text x="450" y="475" text-anchor="middle" fill="#ccfbf1" font-size="17" font-weight="bold">&#x77E5;&#x8BC6;&#x5E95;&#x7A3F;</text>
+  <rect x="160" y="492" width="120" height="30" rx="6" fill="#14b8a6" opacity="0.5"/>
+  <text x="220" y="512" text-anchor="middle" fill="#ccfbf1" font-size="13">&#x7248;&#x672C;&#x951A;&#x70B9;</text>
+  <rect x="300" y="492" width="140" height="30" rx="6" fill="#14b8a6" opacity="0.5"/>
+  <text x="370" y="512" text-anchor="middle" fill="#ccfbf1" font-size="13">&#x5E95;&#x5C42;&#x673A;&#x5236;&#x62C6;&#x89E3;</text>
+  <rect x="460" y="492" width="140" height="30" rx="6" fill="#14b8a6" opacity="0.5"/>
+  <text x="530" y="512" text-anchor="middle" fill="#ccfbf1" font-size="13">&#x8E29;&#x5751;&#x4E0E;&#x53CD;&#x6A21;&#x5F0F;</text>
+  <rect x="620" y="492" width="140" height="30" rx="6" fill="#14b8a6" opacity="0.5"/>
+  <text x="690" y="512" text-anchor="middle" fill="#ccfbf1" font-size="13">&#x5DF2;&#x9A8C;&#x8BC1;&#x65B9;&#x6848;</text>
+</svg>
